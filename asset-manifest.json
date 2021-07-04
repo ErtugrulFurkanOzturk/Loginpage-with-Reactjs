@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Loginpage-with-Reactjs/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Loginpage-with-Reactjs/static/js/main.d8607a81.chunk.js",
+    "main.js.map": "/Loginpage-with-Reactjs/static/js/main.d8607a81.chunk.js.map",
+    "runtime-main.js": "/Loginpage-with-Reactjs/static/js/runtime-main.9cb0d328.js",
+    "runtime-main.js.map": "/Loginpage-with-Reactjs/static/js/runtime-main.9cb0d328.js.map",
+    "static/js/2.950a6af0.chunk.js": "/Loginpage-with-Reactjs/static/js/2.950a6af0.chunk.js",
+    "static/js/2.950a6af0.chunk.js.map": "/Loginpage-with-Reactjs/static/js/2.950a6af0.chunk.js.map",
+    "index.html": "/Loginpage-with-Reactjs/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Loginpage-with-Reactjs/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.950a6af0.chunk.js.LICENSE.txt": "/Loginpage-with-Reactjs/static/js/2.950a6af0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb0d328.js",
+    "static/js/2.950a6af0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d8607a81.chunk.js"
+  ]
+}
